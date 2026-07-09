@@ -1,4 +1,4 @@
-2. Modelado de entidades
+-- Modelado de entidades
 
 Herramienta utilizada: ChatGPT
 
@@ -11,7 +11,7 @@ Se propusieron las entidades principales, sus relaciones y los enums necesarios.
 Ajustes realizados:
 Se agregaron entidades adicionales para representar correctamente los productos y el detalle de los pedidos.
 
-3. Regla de autorización por sucursal
+-- Regla de autorización por sucursal
 
 Herramienta utilizada: ChatGPT
 
@@ -24,7 +24,7 @@ Se propuso una validación que compara la sucursal del usuario autenticado con l
 Ajustes realizados:
 La lógica fue adaptada a las entidades definidas en el proyecto.
 
-4. Configuración de JWT
+-- Configuración de JWT
 
 Herramienta utilizada: ChatGPT
 
